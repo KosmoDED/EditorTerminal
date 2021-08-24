@@ -1,0 +1,18 @@
+{
+    "name": "com.kosmo.editorterminal.editorterminal.Editor",
+    "references": [
+        "Unity.EditorCoroutines.Editor",
+        "com.kosmo.editorterminal.editorterminal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

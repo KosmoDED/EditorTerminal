@@ -1,0 +1,14 @@
+{
+    "name": "com.kosmo.editorterminal.editorterminal.Editor.Tests",
+    "references": [
+        "com.kosmo.editorterminal.editorterminal.Runtime",
+        "com.kosmo.editorterminal.editorterminal.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

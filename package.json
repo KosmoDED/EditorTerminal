@@ -1,0 +1,25 @@
+{
+  "name": "com.kosmo.editorterminal.editorterminal",
+  "version": "0.0.1",
+  "displayName": "Editor Terminal",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": ""
+  },
+  "samples": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "hideInEditor": false,
+  "repositoryName": "RepositoryName",
+  "description": "This tool helps you to execute editor commands via terminal"
+}
